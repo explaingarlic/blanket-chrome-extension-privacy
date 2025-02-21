@@ -1,5 +1,3 @@
-# blanket-chrome-extension-privacy
-
 ## GDPR Rights
 
 ### Right to Erasure (Right to be forgotten)
